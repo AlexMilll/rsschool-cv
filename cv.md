@@ -57,5 +57,5 @@ in the process...
 Belorussian - native  
 Russian- C2  
 English-A2  
-Polish - B1  
+Polish - B2  
 Ukrainian - B1
