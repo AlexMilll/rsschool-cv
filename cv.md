@@ -55,7 +55,7 @@ Roman Savin's book "Dot Com Testing"
 in the process...
 ## languages:
 Belorussian - native  
-Russian- native  
+Russian- C2  
 English-A2  
 Polish - B1  
 Ukrainian - B1
