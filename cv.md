@@ -1,6 +1,6 @@
 # Aliaksei Miliun
 ## Contact information:
-**Phone number**: +370-637-97-855   
+**Phone number**: +370-637-97-857 
 **Discord**: Aliaksei Milun (AlexMilll)  
 **E-mail**: milunaleksej@gmail.com  
 **Linkedln**: www.linkedin.com/in/aliaksei-miliun-aa4251224  
