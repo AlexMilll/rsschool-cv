@@ -60,4 +60,4 @@ English-A2
 Polish - B1  
 Ukrainian - B1
 ## Photo:
-![image](https://avatars.githubusercontent.com/u/84816144?v=4.png)
+![image](https://avatars.githubusercontent.com/u/84816144?v=4)
