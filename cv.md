@@ -3,7 +3,7 @@
 **Phone number**: +370-637-97-856   
 **Discord**: Aliaksei Milun (AlexMilll)  
 **E-mail**: milunaleksej@gmail.com  
-**Linkedln**: Aliaksei-Miliun  
+**Linkedln**: www.linkedin.com/in/aliaksei-miliun-aa4251224  
 **GitHub**: AlexMilll  
 **Codewars**: AlexMilll
 ## About Me:
@@ -60,4 +60,4 @@ English-A2
 Polish - B1  
 Ukrainian - B1
 ## Photo:
-![image](https://avatars.githubusercontent.com/u/84816144?v=4)
+[![image](https://avatars.githubusercontent.com/u/84816144?v=4)](https://avatars.githubusercontent.com/u/84816144?v=4)
